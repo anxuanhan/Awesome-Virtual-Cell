@@ -19,3 +19,7 @@ AIVC: Artificial Intelligence Virtual Cell
 - <a name=""></a> Quantitative cell biology with the Virtual Cell (**Trends in Cell Biology 2003**) [[paper](https://www.sciencedirect.com/science/article/pii/S0962892403002150)]
 
 - <a name=""></a> Evaluating feature extraction in ovarian cancer cell line co-cultures using deep neural networks (**Communications Biology 2025**) [[paper](https://www.nature.com/articles/s42003-025-07766-w)]
+
+- <a name=""></a> scPerturb: harmonized single-cell perturbation data (**Nature Methods 2024**) [[paper](https://www.nature.com/articles/s41592-023-02144-y)]
+
+- <a name=""></a> Predicting transcriptional responses to novel chemical perturbations using deep generative model for drug discovery (**Nature Communications 2024**) [[paper](https://www.nature.com/articles/s41467-024-53457-1?fromPaywallRec=false)]
