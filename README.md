@@ -29,4 +29,4 @@ AIVC: Artificial Intelligence Virtual Cell
 
 - <a name=""></a> Combinatorial prediction of therapeutic perturbations using causally-inspired neural networks (**Preprint 2024**) [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC10802439/)]
 
-- <a name=""></a>  (**Preprint 2024**) [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC10802439/)]
+
