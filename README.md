@@ -3,7 +3,10 @@
 AIVC: Artificial Intelligence Virtual Cell
 
 ## Datasets
-- <a name=""></a> **[Arc Virtual Cell Atlas]** Tahoe-100M: A Giga-Scale Single-Cell Perturbation Atlas for Context-Dependent Gene Function and Cellular Modeling (**Bioxiv 2025**) [[paper](https://www.biorxiv.org/content/10.1101/2025.02.20.639398v1)][[code](https://github.com/ArcInstitute/arc-virtual-cell-atlas)]![GitHub stars](https://img.shields.io/github/stars/ArcInstitute/arc-virtual-cell-atlas.svg?logo=github&label=Stars) [[中文解读](https://zhuanlan.zhihu.com/p/28908614524)] 
+- <a name=""></a> **[Arc Virtual Cell Atlas]** Tahoe-100M: A Giga-Scale Single-Cell Perturbation Atlas for Context-Dependent Gene Function and Cellular Modeling (**Bioxiv 2025**) [[paper](https://www.biorxiv.org/content/10.1101/2025.02.20.639398v1)][[code](https://github.com/ArcInstitute/arc-virtual-cell-atlas)]![GitHub stars](https://img.shields.io/github/stars/ArcInstitute/arc-virtual-cell-atlas.svg?logo=github&label=Stars) [[中文解读](https://zhuanlan.zhihu.com/p/28908614524)]
+
+- <a name=""></a> **[Arc Virtual Cell Atlas]** Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations (**Nature Methods 2025**) [[paper](https://www.nature.com/articles/s41592-024-02241-6)][[download](https://broad.io/cpjump1)][[code](https://github.com/jump-cellpainting/2024_Chandrasekaran_NatureMethods/tree/6ba3fcd1495d9e844e4607373a568641981ffcd8/benchmark)]![GitHub stars](https://img.shields.io/github/stars/jump-cellpainting/2024_Chandrasekaran_NatureMethods.svg?logo=github&label=Stars)
+
 
 
 
@@ -23,3 +26,7 @@ AIVC: Artificial Intelligence Virtual Cell
 - <a name=""></a> scPerturb: harmonized single-cell perturbation data (**Nature Methods 2024**) [[paper](https://www.nature.com/articles/s41592-023-02144-y)]
 
 - <a name=""></a> Predicting transcriptional responses to novel chemical perturbations using deep generative model for drug discovery (**Nature Communications 2024**) [[paper](https://www.nature.com/articles/s41467-024-53457-1?fromPaywallRec=false)]
+
+- <a name=""></a> Combinatorial prediction of therapeutic perturbations using causally-inspired neural networks (**Preprint 2024**) [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC10802439/)]
+
+- <a name=""></a>  (**Preprint 2024**) [[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC10802439/)]
